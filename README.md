@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![Hello there](hello_there)
+![Hello there](img/hello_there.jpg)
 
 <!--
 **Xopre/Xopre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
