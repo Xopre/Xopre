@@ -2,7 +2,7 @@
 
 ![Hello there](hello_there.jpg)
 
-Here is [my other account](https://github.com/RodGal-2020).
+Here is [my main account](https://github.com/RodGal-2020).
 
 <!--
 **Xopre/Xopre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
